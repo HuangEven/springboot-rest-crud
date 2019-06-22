@@ -357,6 +357,3 @@ public class LoginHandlerInterceptor implements HandlerInterceptor {
   6. 运行结果
   ![](login_en.png)
 
-### 四、实验总结与分析
-1、实验遇到的问题
-&nbsp;&nbsp;&nbsp;&nbsp; 可能是浏览器渲染的原因，每次运行界面不太一样,从多次试验结果来看，可能跟浏览器负载有关系————当只打开一个界面时最接近预期效果。
